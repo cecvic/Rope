@@ -4,7 +4,7 @@ scikit-image==0.21.0
 tk==0.1.0
 pillow==9.5.0
 onnx==1.16.0
-onnxruntime-gpu==1.17.3
+onnxruntime-gpu==1.17.1
 protobuf==4.23.2
 tqdm
 ftfy
